@@ -12,7 +12,7 @@
 	ignore = dirty
 [submodule "ffmpeg"]
 	path = vendor/ffmpeg
-	url = https://source.ffmpeg.org/ffmpeg.git
+	url = https://git.videolan.org/git/ffmpeg.git
 	ignore = dirty
 [submodule "ffms2"]
 	path = vendor/ffms2
